@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BAEKJOON 1546", "BAEKJOON 1546\BAEKJOON 1546.vcxproj", "{3D7B15F2-6AB1-42E6-B8DE-348C9D7E1EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D7B15F2-6AB1-42E6-B8DE-348C9D7E1EAB}.Debug|x64.ActiveCfg = Debug|x64
+		{3D7B15F2-6AB1-42E6-B8DE-348C9D7E1EAB}.Debug|x64.Build.0 = Debug|x64
+		{3D7B15F2-6AB1-42E6-B8DE-348C9D7E1EAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D7B15F2-6AB1-42E6-B8DE-348C9D7E1EAB}.Debug|x86.Build.0 = Debug|Win32
+		{3D7B15F2-6AB1-42E6-B8DE-348C9D7E1EAB}.Release|x64.ActiveCfg = Release|x64
+		{3D7B15F2-6AB1-42E6-B8DE-348C9D7E1EAB}.Release|x64.Build.0 = Release|x64
+		{3D7B15F2-6AB1-42E6-B8DE-348C9D7E1EAB}.Release|x86.ActiveCfg = Release|Win32
+		{3D7B15F2-6AB1-42E6-B8DE-348C9D7E1EAB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49A691E-CDF3-4D4B-B38D-3029BCC09C94}
+	EndGlobalSection
+EndGlobal
